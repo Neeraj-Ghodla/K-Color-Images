@@ -1,4 +1,4 @@
-# K-Color-Imges
+# K-Color-Images
 
 University of Auckland
 
