@@ -5,6 +5,7 @@ University of Auckland
 ENGGEN 131 Project 1, Semester 2 2018
 
 This Project uses the k-means clustering algorithms to find the clusters of similar pixels in the picture and then turns those clusters into a single pixel color by taking the average of the whole cluster.
+Hence, taking a pictures with millions of colors to just a few while still retaining the original image.
 
 # This is the Original Image
 
