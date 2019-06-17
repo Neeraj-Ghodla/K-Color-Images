@@ -20,7 +20,7 @@ For more information about the algorithm see: https://en.wikipedia.org/wiki/K-me
 # How to use
 1. Place the picture that you want to modify in the project directory.
 2. Run the ConvertImage file.
-3. Enter the name of the file (e.g. clocktower.jpg)
+3. Enter the name of the file (e.g. clocktower.jpg).
 4. Enter the number of colors you need in the picture (e.g. 10).
 5. Enter the upper bound for the number of iterations (e.g. 200).
 6. Voila! If convergence is met within the number of iterations then you will see the picture with k colors otherwise you will see an approximation of the image with k colors.
